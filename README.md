@@ -2,7 +2,7 @@
 
 # Introduction
 
-This document explains how to run a performance test with JMeter against an OpenCart E-commerce Site.
+This document explains how to run a performance test with JMeter against an booking system.
 
 # Install
 
